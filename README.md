@@ -1,20 +1,10 @@
 ### Hi there 👋
-
-<!--
-**harshit-777/harshit-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am currently working as Junior Data Scientist  [**iNeuron**](https://ineuron.ai/).Experience in building models that translate data points into business insights. Highly accurate at collecting, analyzing and interpreting large datasets, developing machine learning models ,deep learning models and deploying the solutions on cloud. Under the guidance of company’s professionals I can contribute to company’s success using my extensive skills.
+.
+I'm a Junior Data Scientist at [**iNeuron**](https://ineuron.ai/) who loves to uncover the hidden facts and meaningful insights from messy data.I learned to build effective Machine Learning Model, run Data Pipelines, Natural Language Processing, Image Processing, build Recommendation Systems, and deploy solutions to the cloud.
 
 
+### Data Science Skill Set
 
-### Things I'm good at :fire:
-
-I'm a **Data Science** who loves to uncover the hidden facts and meaningful insights from messy data.I learned to build effective Machine Learning Model, run Data Pipelines, Natural Language Processing, Image Processing, build Recommendation Systems, and deploy solutions to the cloud.
-Learning advance concept of Deep Learning,Computer Vision and NLP 
-
-
-Data Science Skill Set
-==============================================================================================
 ► **Machine Learning** - Exploratory Data Analysis, Feature Engineering, Visualization,Regression,Classification , Natural Language Processing
 
 ► **Statistics**
