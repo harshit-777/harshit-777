@@ -1,5 +1,4 @@
 ### Hi there 👋
-.
 I'm a Junior Data Scientist at [**iNeuron**](https://ineuron.ai/) who loves to uncover the hidden facts and meaningful insights from messy data.I learned to build effective Machine Learning Model, run Data Pipelines, Natural Language Processing, Image Processing, build Recommendation Systems, and deploy solutions to the cloud.
 
 
